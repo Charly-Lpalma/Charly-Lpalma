@@ -3,11 +3,14 @@
   <h3 align="center">Ingeniero de Software Full Stack</h3>
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/carlos-palma-a80135227" target="_blank">
+    <a href="https://www.linkedin.com/in/[tu-usuario-linkedin]" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:[carlos_jlp@hotmail.com]">
+    <a href="mailto:[tu-email@ejemplo.com]">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.credly.com/users/carlos-jonathan-lopez-palma/badges" target="_blank">
+      <img src="https://img.shields.io/badge/Credly-Certificaciones-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
     </a>
   </p>
 </div>
