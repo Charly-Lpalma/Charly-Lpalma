@@ -19,10 +19,10 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un **Ingeniero de Software** titulado por la **UAEMex** con más de 5 años de experiencia en el desarrollo de aplicaciones web escalables. Me especializo en crear soluciones completas (End-to-End) utilizando arquitecturas monolíticas y microservicios.
+Soy un **Ingeniero de Software** titulado con más de 5 años de experiencia en el desarrollo de aplicaciones web escalables. Me especializo en crear soluciones completas (End-to-End) utilizando arquitecturas monolíticas y microservicios.
 
-* 🔭 **Experiencia reciente:** Trabajé como Full Stack Developer en **Zeetech TICS** desarrollando módulos complejos y optimizando bases de datos.
-* 🌱 **Actualmente:** Estoy profundizando en arquitecturas de software y Cloud Computing.
+* 🔭 **Experiencia reciente:** Trabajo como Full Stack Developer en **Zeetech TICS** desarrollando módulos complejos y optimizando bases de datos.
+* 🌱 **Actualmente:** Estoy profundizando en arquitecturas de software y UX Design.
 * 💬 **Pregúntame sobre:** React, NestJS, Laravel y optimización de consultas SQL.
 * ⚡ **Enfoque:** Calidad de código, documentación clara y metodologías ágiles.
 
